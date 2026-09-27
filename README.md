@@ -1,2 +1,3 @@
-# inspect-then-remediate
-Denver mold: inspect-only vs same-company remediation
+# Inspect Then Remediate
+
+Denver mold checklist: independent inspection vs same-company remediation.
